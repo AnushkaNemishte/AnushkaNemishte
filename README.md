@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anushka Nemishte</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Youtube clone project using react js**
+- 🔭 I’m currently working on **ERP Project using react js**
 
 - 🌱 I’m currently learning **React Libraries , such as Redux Toolkit Query, React Formik , React Yup etc**
 
